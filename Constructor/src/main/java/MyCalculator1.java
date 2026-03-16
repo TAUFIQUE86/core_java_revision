@@ -27,6 +27,14 @@ public class MyCalculator1  implements Calculator {
         System.out.println(c);
 
     }
+// @Specelized methods
+    public void mul(){
+
+        int a = 4;
+        int b = 6;
+        double c = a * b;
+        System.out.println(c);
+    }
 
 
 }

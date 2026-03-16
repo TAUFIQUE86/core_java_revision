@@ -13,5 +13,10 @@ public class CalculatorDeom {
         mc1.sub();
         mc2.sub();
         mc3.sub();
+
+
+        mc1.mul();
+
+        mc3.mul();
     }
 }
