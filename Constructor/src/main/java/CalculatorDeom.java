@@ -18,5 +18,9 @@ public class CalculatorDeom {
         mc1.mul();
 
         mc3.mul();
+
+
+
+
     }
 }
